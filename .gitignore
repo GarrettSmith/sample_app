@@ -4,7 +4,4 @@ log/*.log
 tmp/
 .sass-cache/
 *.swp
-<<<<<<< HEAD
-=======
 *~
->>>>>>> static-pages
