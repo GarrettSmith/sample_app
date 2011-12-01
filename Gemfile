@@ -23,6 +23,7 @@ group :development do
 end
 
 group :test do
+  gem 'autotest'
   gem 'rspec-rails'
   gem 'webrat'
 end
