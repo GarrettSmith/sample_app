@@ -7,6 +7,9 @@ gem 'rails', '3.1.1'
 
 gem 'sqlite3'
 
+#gravatar
+gem 'gravatar_image_tag'
+
 
 # Gems used only for assets and not required
 # in production environments by default.
@@ -27,6 +30,7 @@ group :test do
   gem 'autotest'
   gem 'rspec-rails'
   gem 'webrat'
+  gem 'factory_girl_rails'
 end
 
 # To use ActiveModel has_secure_password

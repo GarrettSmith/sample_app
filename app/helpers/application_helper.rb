@@ -11,7 +11,7 @@ module ApplicationHelper
     if @title.nil?
       base_title
     else
-      "#{base_title} | #{@title.capitalize}"
+      "#{base_title} | #{@title}"
     end
   end
 
